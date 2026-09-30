@@ -1,0 +1,3 @@
+[submodule "iperfLib/Sources/Ciperf/iperfLib"]
+	path = iperfLib/Sources/Ciperf/iperfLib
+	url = https://github.com/esnet/iperf.git
